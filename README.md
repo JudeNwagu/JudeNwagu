@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my portfolio 👋, I'm Jude Nwagu</h1>
 <h3 align="center"> Hi, My name is Nwagu Jude.
 
-I'm a certified data analyst with over 3 years of experience helping businesses make smarter decisions by turning data into clear, useful insights. From improving processes to spotting trends and building easy-to-understand dashboards, I focus on solving real problems that drive results.
+I'm a certified data analyst with over 4 years of experience helping businesses make smarter decisions by turning data into clear, useful insights. From improving processes to spotting trends and building easy-to-understand dashboards, I focus on solving real problems that drive results.
 
 I have a proven track record of delivering impactful projects and working closely with teams to turn data into action. I'm skilled in tools like Excel, Google Sheets, SQL, Power BI, Tableau, and Python—but more importantly, I know how to translate complex information into something meaningful for any audience, whether it's a client, a manager, or a teammate.
 
