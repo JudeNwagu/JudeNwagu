@@ -15,7 +15,7 @@ Let’s connect and build something amazing..</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=judoski366&label=Profile%20views&color=0e75b6&style=flat" alt="judoski366" /> </p>
 
 
-- 🔭 I’m currently working on **50 days of Data Engineering Fundalmental **
+- 🔭 I’m currently working on **50 days of Data Engineering Fundalmental**
 
 - 🌱 I’m currently learning **Data Engineering, Data Governance**
 
