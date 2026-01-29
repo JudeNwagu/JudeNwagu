@@ -5,7 +5,7 @@ I'm a certified data analyst with over 4 years of experience helping businesses 
 
 I have a proven track record of delivering impactful projects and working closely with teams to turn data into action. I'm skilled in tools like Excel, Google Sheets, SQL, Power BI, Tableau, and Python—but more importantly, I know how to translate complex information into something meaningful for any audience, whether it's a client, a manager, or a teammate.
 
-Currently, I'm learning about data governance as I prepare to transition into data engineering. I'm committed to continuous learning and growth in the field, and I’m always excited to take on new challenges and collaborate on projects that make a real-world impact.
+Currently i am transitioning into data engineering. I'm committed to continuous learning and growth in the field, and I’m always excited to take on new challenges and collaborate on projects that make a real-world impact.
 🔍 Explore this space to see the projects I’ve built, the skills I bring, and the value I create.
 
 Let’s connect and build something amazing..</h3>
@@ -15,21 +15,21 @@ Let’s connect and build something amazing..</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=judoski366&label=Profile%20views&color=0e75b6&style=flat" alt="judoski366" /> </p>
 
 
-- 🔭 I’m currently working on **Austin Police Department**
+- 🔭 I’m currently working on **50 days of Data Engineering Fundalmental **
 
-- 🌱 I’m currently learning **Web3 Analytics, Data Governance**
+- 🌱 I’m currently learning **Data Engineering, Data Governance**
 
-- 👯 I’m looking to collaborate on **Impactul Project**
+- 👯 I’m looking to collaborate on **Impactful Project**
   
 - 👨‍💻 All of my past projects are available at [https://github.com/judoski366/Judenwagu-portfolio](https://github.com/judoski366/Judenwagu-portfolio)
   
-- 👨‍💻 All of my powerbi projects are available at [https://www.novypro.com/manage_projects/nwagujude](https://www.novypro.com/profile_about/nwagujude)
+- 👨‍💻 All of my Power BI projects are available at [https://www.novypro.com/manage_projects/nwagujude](https://www.novypro.com/profile_about/nwagujude)
 
 -  👨‍💻 All of my Tableau projects are available at [https://public.tableau.com/app/profile/jude.nwagu/vizzes](https://public.tableau.com/app/profile/jude.nwagu/vizzes)
 
 - 📝 I regularly write articles and also project documentation on [https://medium.com/@nwagujudechigozie](https://medium.com/@nwagujudechigozie)
 
-- 💬 Ask me about **Excel, SQL,Powerbi, Tableau, Python**
+- 💬 Ask me about **Excel, SQL, Power BI, Tableau, Python, Linux**
 
 - 📫 How to reach me **nwagujudechigozie@gmail.com**
 
