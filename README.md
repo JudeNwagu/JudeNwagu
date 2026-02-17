@@ -118,17 +118,17 @@ I believe data is most powerful when it is **clear, actionable, and aligned with
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JudeNwagu&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JudeNwagu&show_icons=true&theme=radical" alt="JudeNwagu GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JudeNwagu&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=JudeNwagu&theme=radical" alt="JudeNwagu GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JudeNwagu&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JudeNwagu&layout=compact&theme=radical" alt="JudeNwagu Top Languages" />
 </p>
 
