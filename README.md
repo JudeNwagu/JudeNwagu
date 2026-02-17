@@ -1,9 +1,22 @@
-<h1 align="center">👋 Hi, I'm Jude Nwagu</h1>
-<h3 align="center">Data Analyst | Transitioning into Data Engineering</h3>
+<table>
+<tr>
+<td width="35%" align="center">
 
-<p align="center">
-Helping businesses turn data into clear insights, smarter decisions, and measurable impact.
-</p>
+<img src="https://github.com/JudeNwagu.png" width="200" style="border-radius: 50%;" />
+
+</td>
+
+<td width="65%">
+
+<h1>Hi, I'm Jude Nwagu 👋</h1>
+<h3>Data Analyst | Transitioning into Data Engineering</h3>
+
+Helping businesses turn data into clear insights and measurable impact.
+
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -12,7 +25,7 @@ Helping businesses turn data into clear insights, smarter decisions, and measura
 I'm a certified Data Analyst with 4+ years of experience transforming raw data into actionable insights.  
 From building executive dashboards to improving business processes and uncovering trends, I focus on solving real-world problems that drive measurable results.
 
-I specialize in Excel, SQL, Power BI, Tableau, and Python — and I’m currently transitioning into Data Engineering, expanding into modern data pipelines, cloud technologies, and scalable systems.
+I specialize in Excel, SQL, Power BI, Tableau, and Python. I’m currently transitioning into Data Engineering, expanding into modern data pipelines, cloud technologies, and scalable systems.
 
 I believe data is most powerful when it is **clear, actionable, and aligned with business goals.**
 
@@ -108,13 +121,14 @@ I believe data is most powerful when it is **clear, actionable, and aligned with
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=judoski366&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JudeNwagu&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=judoski366" />
+  <img src="https://streak-stats.demolab.com?user=JudeNwagu&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=judoski366&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JudeNwagu&layout=compact&theme=radical" />
 </p>
+
