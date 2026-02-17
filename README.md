@@ -1,60 +1,120 @@
-<h1 align="center">Welcome to my portfolio 👋, I'm Jude Nwagu</h1>
-<h3 align="center"> Hi, My name is Nwagu Jude.
+<h1 align="center">👋 Hi, I'm Jude Nwagu</h1>
+<h3 align="center">Data Analyst | Transitioning into Data Engineering</h3>
 
-I'm a certified data analyst with over 4 years of experience helping businesses make smarter decisions by turning data into clear, useful insights. From improving processes to spotting trends and building easy-to-understand dashboards, I focus on solving real problems that drive results.
+<p align="center">
+Helping businesses turn data into clear insights, smarter decisions, and measurable impact.
+</p>
 
-I have a proven track record of delivering impactful projects and working closely with teams to turn data into action. I'm skilled in tools like Excel, Google Sheets, SQL, Power BI, Tableau, and Python—but more importantly, I know how to translate complex information into something meaningful for any audience, whether it's a client, a manager, or a teammate.
+---
 
-Currently i am transitioning into data engineering. I'm committed to continuous learning and growth in the field, and I’m always excited to take on new challenges and collaborate on projects that make a real-world impact.
-🔍 Explore this space to see the projects I’ve built, the skills I bring, and the value I create.
+## 👨‍💻 About Me
 
-Let’s connect and build something amazing..</h3>
+I'm a certified Data Analyst with 4+ years of experience transforming raw data into actionable insights.  
+From building executive dashboards to improving business processes and uncovering trends, I focus on solving real-world problems that drive measurable results.
 
+I specialize in Excel, SQL, Power BI, Tableau, and Python — and I’m currently transitioning into Data Engineering, expanding into modern data pipelines, cloud technologies, and scalable systems.
 
-##
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=judoski366&label=Profile%20views&color=0e75b6&style=flat" alt="judoski366" /> </p>
+I believe data is most powerful when it is **clear, actionable, and aligned with business goals.**
 
+---
 
-- 🔭 I’m currently working on **50 days of Data Engineering Fundalmental**
+## 🚀 What I'm Currently Doing
 
-- 🌱 I’m currently learning **Data Engineering, Data Governance**
-
-- 👯 I’m looking to collaborate on **Impactful Project**
-  
-- 👨‍💻 All of my past projects are available at [https://github.com/judoski366/Judenwagu-portfolio](https://github.com/judoski366/Judenwagu-portfolio)
-  
-- 👨‍💻 All of my Power BI projects are available at [https://www.novypro.com/manage_projects/nwagujude](https://www.novypro.com/profile_about/nwagujude)
-
--  👨‍💻 All of my Tableau projects are available at [https://public.tableau.com/app/profile/jude.nwagu/vizzes](https://public.tableau.com/app/profile/jude.nwagu/vizzes)
-
-- 📝 I regularly write articles and also project documentation on [https://medium.com/@nwagujudechigozie](https://medium.com/@nwagujudechigozie)
-
+- 🔭 Working on **50 Days of Data Engineering Fundamentals**
+- 🌱 Learning **Data Engineering & Data Governance**
+- 👯 Open to collaborating on **impact-driven data projects**
 - 💬 Ask me about **Excel, SQL, Power BI, Tableau, Python, Linux**
+- 📫 Reach me at: **nwagujudechigozie@gmail.com**
 
-- 📫 How to reach me **nwagujudechigozie@gmail.com**
+---
 
-##
+## 🌍 Portfolio & Content
+
+- 💼 **GitHub Projects**  
+  https://github.com/judoski366/Judenwagu-portfolio
+
+- 📊 **Power BI Portfolio**  
+  https://www.novypro.com/profile_about/nwagujude
+
+- 📈 **Tableau Portfolio**  
+  https://public.tableau.com/app/profile/jude.nwagu/vizzes
+
+- 📝 **Technical Writing (Medium)**  
+  https://medium.com/@nwagujudechigozie
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://twitter.com/jcndata" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jcndata" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/nwagu-jude/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nwagu-jude" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://medium.com/@nwagujudechigozie" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nwagujudechigozie" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
   </a>
 </p>
 
+---
 
+# 🛠️ Technical Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🧠 Programming & Analytics
+<p>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
+<a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" height="40"/></a>
+</p>
 
-#
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=judoski366&show_icons=true&locale=en&layout=compact" alt="judoski366" /></p>
+## 🗄️ Databases
+<p>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=judoski366&show_icons=true&locale=en" alt="judoski366" /></p>
+## 📊 Business Intelligence
+<p>
+<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40"/></a>
+<a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40"/></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=judoski366&" alt="judoski366" /></p>
+## ⚙️ Data Engineering
+<p>
+<a href="https://spark.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40" height="40"/></a>
+<a href="https://airflow.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
+</p>
+
+## ☁️ Cloud
+<p>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/></a>
+</p>
+
+## 🛠️ Tools
+<p>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=judoski366&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=judoski366" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=judoski366&layout=compact" />
+</p>
