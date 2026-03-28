@@ -32,8 +32,9 @@ I believe data is most powerful when it is **clear, actionable, and aligned with
 ---
 
 ## 🚀 What I'm Currently Doing
-
-- 🔭 Working on **50 Days of Data Engineering Fundamentals**
+- 🌱 30 Days of Linux Challenge and commit daily on my github for future reference notes
+- 🌱 Finished using pandas for data cleaning and data profiling on (air traffic & bank marketing dataset) for data analysis
+- 🔭 Finished Working on **50 Days of Data Engineering Fundamentals**
 - 🌱 Learning **Data Engineering & Data Governance**
 - 👯 Open to collaborating on **impact-driven data projects**
 - 💬 Ask me about **Excel, SQL, Power BI, Tableau, Python, Linux**
